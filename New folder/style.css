@@ -1,0 +1,22 @@
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    margin-top: 30px;
+    
+    
+}
+
+.two{
+    padding:20px;
+    padding-right: 80px;
+    font-size: 50px;
+}
+
+#text{
+    width: 15%;
+}
+
+body{
+    background-color: rgb(142, 187, 218);;
+}
